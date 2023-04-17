@@ -1,0 +1,32 @@
+{
+  "patients": [
+    {
+      "date": "2023-04-16",
+      "name": "Selvia Nirmala",
+      "age": "20",
+      "poli": "Poli Umum",
+      "id": 2
+    },
+    {
+      "date": "2023-04-18",
+      "name": "Anton Setya",
+      "age": "22",
+      "poli": "Poli Gigi",
+      "id": 3
+    }
+  ],
+  "polies": [
+    {
+      "id": 1,
+      "name": "Poli Umum"
+    },
+    {
+      "id": 2,
+      "name": "Poli Gigi"
+    },
+    {
+      "id": 3,
+      "name": "Poli Anak"
+    }
+  ]
+}
